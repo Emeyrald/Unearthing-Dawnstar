@@ -51,7 +51,15 @@ High-level view of menu and game-state transitions.
 4. Run ```make```
 5. Run ```./game```
 
+## Demo Notes
+This project is implemented as a playable demo to showcase core systems
+such as leveling, skill unlocking, combat flow, and game-over handling.
+Certain enemy parameters are intentionally exaggerated (e.g., accelerated
+experience gain or lethal encounters) to demonstrate these mechanics without
+requiring extended playtime.
+
 ## Notes
 This project was developed as part of a university course and completed with a
 small team. I was primarily responsible for the core architecture and gameplay
 systems.
+
